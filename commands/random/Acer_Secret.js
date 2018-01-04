@@ -1,11 +1,11 @@
 const commando = require('discord.js-commando');
 
-class FluffyFact extends commando.Command{
+class AcerSecret extends commando.Command{
     constructor(client){
         super(client, {
-            name: 'acer_fact',
+            name: 'acer_secret',
             group: 'fun',
-            memberName: 'acer_fact',
+            memberName: 'acer_secret',
             description: 'Acer Secret'
         });
     }
@@ -15,4 +15,4 @@ class FluffyFact extends commando.Command{
     }
 }
 
-module.exports = AcerFact;
+module.exports = AcerSecret;
