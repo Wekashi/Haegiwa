@@ -1,6 +1,6 @@
 {
-  "name": "Haegiwa",
-  "description": "Haegiwa Discord Bot",
+  "name": "haegiwa",
+  "description": "haegiwa discord bot",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
